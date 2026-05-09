@@ -1,0 +1,6 @@
+interface:
+  display_name: "Science It"
+  short_description: "Investigate claims with the scientific method"
+  default_prompt: "Use $science-it to investigate whether Dungeons & Dragons has more RNG than Sword World."
+policy:
+  allow_implicit_invocation: false
